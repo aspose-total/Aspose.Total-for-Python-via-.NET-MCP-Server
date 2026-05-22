@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "aspose-svg": {
+      "command": "C:\\path\\to\\servers\\svg\\.venv\\Scripts\\python.exe",
+      "args": ["servers\\svg\\server.py"],
+      "cwd": "C:\\path\\to\\mcp-aspose-python",
+      "env": {
+        "ASPOSE_INPUT_DIR": "C:\\path\\to\\your\\input\\folder",
+        "ASPOSE_OUTPUT_DIR": "C:\\path\\to\\your\\output\\folder",
+        "ASPOSE_LICENSE_PATH": "C:\\path\\to\\your\\Aspose.Total.lic"
+      }
+    }
+  }
+}

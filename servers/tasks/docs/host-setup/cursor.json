@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-tasks": {
+      "command": "/absolute/path/to/servers/tasks/.venv/bin/python",
+      "args": ["servers/tasks/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

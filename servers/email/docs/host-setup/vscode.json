@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-email": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/email/.venv/bin/python",
+      "args": ["servers/email/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

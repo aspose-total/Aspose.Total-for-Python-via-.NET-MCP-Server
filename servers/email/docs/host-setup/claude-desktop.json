@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "aspose-email": {
+      "command": "c:\\my-code\\client-work\\aspose-total-mcp-servers\\aspose-total-pythong-via-dotnet-claude\\servers\\email\\.venv\\Scripts\\python.exe",
+      "args": [
+        "c:\\my-code\\client-work\\aspose-total-mcp-servers\\aspose-total-pythong-via-dotnet-claude\\servers\\email\\server.py"
+      ],
+      "env": {
+        "ASPOSE_INPUT_DIR": "C:/asposefiles",
+        "ASPOSE_OUTPUT_DIR": "C:/asposefiles",
+        "ASPOSE_LICENSE_PATH": "C:/asposefiles/Conholdate.Total.Product.Family.lic"
+      }
+    }
+  }
+}

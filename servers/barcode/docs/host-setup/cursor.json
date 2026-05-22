@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-barcode": {
+      "command": "/absolute/path/to/servers/barcode/.venv/bin/python",
+      "args": ["servers/barcode/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

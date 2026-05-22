@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-psd": {
+      "command": "/absolute/path/to/servers/psd/.venv/bin/python",
+      "args": ["servers/psd/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

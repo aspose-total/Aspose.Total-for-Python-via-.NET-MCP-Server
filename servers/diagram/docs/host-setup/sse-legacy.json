@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aspose-diagram": {
+      "type": "sse",
+      "url": "http://127.0.0.1:8010/sse"
+    }
+  }
+}

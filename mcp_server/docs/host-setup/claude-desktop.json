@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "aspose": {
+      "command": "python",
+      "args": ["-m", "mcp_server.server", "--transport", "stdio", "--products", "ocr", "zip", "pdf"],
+      "cwd": "/absolute/path/to/mcp-aspose-python",
+      "env": {
+        "ASPOSE_FILES_PATH": "/absolute/path/to/your/files/folder"
+      }
+    }
+  }
+}

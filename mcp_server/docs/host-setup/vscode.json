@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "aspose": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["-m", "mcp_server.server", "--products", "ocr", "zip", "pdf"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}

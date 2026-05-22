@@ -1,0 +1,5 @@
+# Aspose.BarCode standalone server requirements
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-barcode-for-python-via-net

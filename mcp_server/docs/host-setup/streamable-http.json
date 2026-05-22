@@ -1,0 +1,9 @@
+{
+  "_comment": "Start server first: python -m mcp_server.server --products ocr zip pdf --transport streamable-http --port 8000",
+  "mcpServers": {
+    "aspose": {
+      "type": "http",
+      "url": "http://127.0.0.1:8000/mcp"
+    }
+  }
+}

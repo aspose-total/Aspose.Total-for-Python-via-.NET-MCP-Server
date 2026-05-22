@@ -1,0 +1,2 @@
+# Cross-platform: Windows x32/x64, Linux, macOS
+aspose-tasks

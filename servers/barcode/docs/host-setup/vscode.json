@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-barcode": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/barcode/.venv/bin/python",
+      "args": ["servers/barcode/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

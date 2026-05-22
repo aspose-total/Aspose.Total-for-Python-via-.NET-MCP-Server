@@ -1,0 +1,5 @@
+# Cross-platform: Windows x32/x64, Linux, macOS
+# IMPORTANT: long package name — aspose-email-for-python-via-net
+# NOT 'aspose-email-cloud' (cloud REST SDK requiring API credentials)
+# NOT 'aspose-email' (does not exist as a pip-installable .NET binding)
+aspose-email-for-python-via-net

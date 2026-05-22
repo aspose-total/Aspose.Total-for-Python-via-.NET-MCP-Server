@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-diagram": {
+      "command": "/absolute/path/to/servers/diagram/.venv/bin/python",
+      "args": ["servers/diagram/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

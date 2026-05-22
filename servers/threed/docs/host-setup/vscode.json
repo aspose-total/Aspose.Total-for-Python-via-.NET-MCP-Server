@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-3d": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/threed/.venv/bin/python",
+      "args": ["servers/threed/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# Cross-platform: Windows x32/x64, Linux x64, macOS x64/Arm64
+aspose-psd

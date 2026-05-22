@@ -1,0 +1,8 @@
+# Aspose Page standalone server requirements
+# PLATFORM NOTE: aspose-page is Windows only (x86/x64)
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-page
+pytest
+pytest-asyncio

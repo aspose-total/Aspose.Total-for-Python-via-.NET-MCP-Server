@@ -1,0 +1,7 @@
+# Aspose Finance standalone server requirements
+# Cross-platform: Windows x32/x64, Linux, Unix/macOS
+# IMPORTANT: aspose-finance requires Python >=3.5 and <3.12
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-finance

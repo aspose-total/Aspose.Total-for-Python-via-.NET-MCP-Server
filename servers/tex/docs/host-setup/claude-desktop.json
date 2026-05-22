@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "aspose-tex": {
+      "command": "C:\\path\\to\\servers\\tex\\.venv\\Scripts\\python.exe",
+      "args": ["servers\\tex\\server.py"],
+      "cwd": "C:\\path\\to\\mcp-aspose-python",
+      "env": {
+        "ASPOSE_INPUT_DIR": "C:\\path\\to\\your\\input\\folder",
+        "ASPOSE_OUTPUT_DIR": "C:\\path\\to\\your\\output\\folder",
+        "ASPOSE_LICENSE_PATH": "C:\\path\\to\\your\\Aspose.Total.lic"
+      }
+    }
+  }
+}

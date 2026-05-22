@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-3d": {
+      "command": "/absolute/path/to/servers/threed/.venv/bin/python",
+      "args": ["servers/threed/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "aspose": {
+      "command": "python",
+      "args": ["-m", "mcp_server.server", "--products", "ocr", "zip", "pdf"],
+      "cwd": "/absolute/path/to/mcp-aspose-python",
+      "env": {
+        "ASPOSE_LICENSE_PATH": "/path/to/license.xml"
+      }
+    }
+  }
+}

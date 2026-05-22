@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-finance": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/finance/.venv/bin/python",
+      "args": ["servers/finance/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

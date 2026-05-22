@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "aspose-cad": {
+      "command": "C:\\path\\to\\servers\\cad\\.venv\\Scripts\\python.exe",
+      "args": [
+        "C:\\path\\to\\servers\\cad\\server.py"
+      ],
+      "env": {
+        "ASPOSE_FILES_PATH": "C:/asposefiles",
+        "ASPOSE_LICENSE_FILE": "C:/asposefiles/Conholdate.Total.Product.Family.lic"
+      }
+    }
+  }
+}

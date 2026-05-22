@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-svg": {
+      "command": "C:\\path\\to\\servers\\svg\\.venv\\Scripts\\python.exe",
+      "args": ["servers\\svg\\server.py"],
+      "cwd": "C:\\path\\to\\mcp-aspose-python"
+    }
+  }
+}

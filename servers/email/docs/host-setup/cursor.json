@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-email": {
+      "command": "/absolute/path/to/servers/email/.venv/bin/python",
+      "args": ["servers/email/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

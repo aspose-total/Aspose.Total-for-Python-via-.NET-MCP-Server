@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-tex": {
+      "command": "C:\\path\\to\\servers\\tex\\.venv\\Scripts\\python.exe",
+      "args": ["servers\\tex\\server.py"],
+      "cwd": "C:\\path\\to\\mcp-aspose-python"
+    }
+  }
+}

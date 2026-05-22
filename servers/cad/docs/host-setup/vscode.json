@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "aspose-cad": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/cad/.venv/bin/python",
+      "args": ["servers/cad/server.py"],
+      "env": {
+        "ASPOSE_FILES_PATH": "${workspaceFolder}/files"
+      }
+    }
+  }
+}

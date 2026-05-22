@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-psd": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/psd/.venv/bin/python",
+      "args": ["servers/psd/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

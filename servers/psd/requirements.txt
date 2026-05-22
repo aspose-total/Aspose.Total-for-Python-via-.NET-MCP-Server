@@ -1,0 +1,8 @@
+# Aspose PSD standalone server requirements
+# Cross-platform: Windows x32/x64, Linux x64, macOS x64/Arm64
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-psd
+pytest
+pytest-asyncio

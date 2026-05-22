@@ -1,0 +1,5 @@
+# Cross-platform: Windows, Linux, macOS
+# IMPORTANT: aspose-diagram-python (with -python suffix)
+# NOT aspose-diagram (that is the Java/JPype variant requiring a JVM)
+# NOT aspose-diagram-cloud (that requires cloud API credentials)
+aspose-diagram-python

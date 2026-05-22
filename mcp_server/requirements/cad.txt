@@ -1,0 +1,3 @@
+# Cross-platform: Windows x32/x64, Linux, macOS
+# IMPORTANT: requires Python >= 3.9
+aspose-cad

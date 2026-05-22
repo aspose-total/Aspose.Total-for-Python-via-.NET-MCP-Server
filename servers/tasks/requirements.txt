@@ -1,0 +1,6 @@
+# Aspose Tasks standalone server requirements
+# Cross-platform: Windows x32/x64, Linux, macOS
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-tasks

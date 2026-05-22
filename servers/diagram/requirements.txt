@@ -1,0 +1,9 @@
+# Aspose Diagram standalone server requirements
+# Cross-platform: Windows, Linux, macOS
+# IMPORTANT: use 'aspose-diagram-python' (with -python suffix)
+# NOT 'aspose-diagram' — that is the Java/JPype variant requiring a JVM
+# NOT 'aspose-diagram-cloud' — that requires cloud API credentials
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-diagram-python

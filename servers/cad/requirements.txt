@@ -1,0 +1,7 @@
+# Aspose CAD standalone server requirements
+# Cross-platform: Windows x32/x64, Linux, macOS
+# IMPORTANT: requires Python >= 3.9
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-cad

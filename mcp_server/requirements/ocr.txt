@@ -1,0 +1,2 @@
+aspose-ocr-python-net
+pillow>=10.0

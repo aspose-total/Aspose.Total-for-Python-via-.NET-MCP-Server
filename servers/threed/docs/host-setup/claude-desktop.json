@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "aspose-3d": {
+      "command": "/absolute/path/to/servers/threed/.venv/bin/python",
+      "args": ["servers/threed/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python",
+      "env": {
+        "ASPOSE_INPUT_DIR": "/path/to/your/input/folder",
+        "ASPOSE_OUTPUT_DIR": "/path/to/your/output/folder",
+        "ASPOSE_LICENSE_PATH": "/path/to/your/Aspose.Total.lic"
+      }
+    }
+  }
+}

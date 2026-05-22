@@ -1,0 +1,2 @@
+# Windows only (x86/x64) — no Linux/macOS wheels
+aspose-page

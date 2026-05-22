@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-diagram": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/diagram/.venv/bin/python",
+      "args": ["servers/diagram/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

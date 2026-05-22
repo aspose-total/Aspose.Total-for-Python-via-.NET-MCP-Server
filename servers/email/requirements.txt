@@ -1,0 +1,9 @@
+# Aspose Email standalone server requirements
+# Cross-platform: Windows, Linux, macOS
+# IMPORTANT: use 'aspose-email-for-python-via-net' (full long name)
+# NOT 'aspose-email-cloud' — that requires Aspose Cloud API credentials
+# NOT 'aspose-email' — that package does not exist as a pip-installable .NET binding
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-email-for-python-via-net

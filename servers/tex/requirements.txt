@@ -1,0 +1,9 @@
+# Aspose TeX standalone server requirements
+# PLATFORM NOTE: aspose-tex-net is Windows only (x86/x64)
+# pip install will fail on Linux/macOS — no matching wheels exist for those platforms.
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-tex-net
+pytest
+pytest-asyncio

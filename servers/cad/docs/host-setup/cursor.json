@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-cad": {
+      "command": "/absolute/path/to/servers/cad/.venv/bin/python",
+      "args": ["servers/cad/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}

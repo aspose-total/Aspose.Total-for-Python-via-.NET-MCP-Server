@@ -1,0 +1,14 @@
+aspose:
+  license_path: ~/.aspose/license.xml   # optional — runs in evaluation mode without it
+  # files_path: /srv/aspose/files       # base directory for all file I/O; overridden by
+                                        # the ASPOSE_FILES_PATH env var or --files-path CLI flag.
+                                        # When set, callers pass relative filenames only.
+                                        # When absent, callers must supply full absolute paths.
+  products:
+    - ocr                               # Sprint 1: only OCR enabled
+  # products: all                       # future: enable all installed plugins
+  server:
+    host: 127.0.0.1
+    port: 8000
+    transport: stdio                    # stdio | streamable-http | sse
+    mount_path: /mcp                    # only used with streamable-http

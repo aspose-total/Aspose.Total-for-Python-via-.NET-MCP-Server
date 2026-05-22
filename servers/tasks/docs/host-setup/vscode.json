@@ -1,0 +1,13 @@
+{
+  "servers": {
+    "aspose-tasks": {
+      "type": "stdio",
+      "command": "${workspaceFolder}/servers/tasks/.venv/bin/python",
+      "args": ["servers/tasks/server.py"],
+      "env": {
+        "ASPOSE_INPUT_DIR": "${workspaceFolder}/input",
+        "ASPOSE_OUTPUT_DIR": "${workspaceFolder}/output"
+      }
+    }
+  }
+}

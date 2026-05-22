@@ -1,0 +1,7 @@
+# Aspose 3D standalone server requirements
+# Cross-platform: Windows, Linux, macOS
+# PyPI package: aspose-3d  (Python module: aspose.threed)
+mcp[cli]
+fastmcp
+python-dotenv
+aspose-3d

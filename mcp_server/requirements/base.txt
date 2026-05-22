@@ -1,0 +1,5 @@
+mcp[cli]
+fastmcp
+aiohttp>=3.9
+pyyaml>=6.0
+python-dotenv>=1.0

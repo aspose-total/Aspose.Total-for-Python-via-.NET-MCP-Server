@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "aspose-finance": {
+      "command": "/absolute/path/to/servers/finance/.venv/bin/python",
+      "args": ["servers/finance/server.py"],
+      "cwd": "/absolute/path/to/mcp-aspose-python"
+    }
+  }
+}
